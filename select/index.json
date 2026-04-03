@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "不安定ガール",
+  "base_artist": "429",
+  "createdAt": "2026-04-03T06:16:51.351284Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "不安定ガール",
+      "artist": "429",
+      "has_synced": false,
+      "path": "select/pl_01_不安定ガール_429.txt"
+    }
+  ]
+}
